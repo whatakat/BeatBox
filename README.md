@@ -1,1 +1,1 @@
-# photoGallery application
+# beatBox application
